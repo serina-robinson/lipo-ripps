@@ -75,15 +75,15 @@ colnames(bpldf) <- c("PFAM", "Count")
 bpldf <- bpldf %>%
   dplyr::filter(PFAM != "NA") %>%
   dplyr::mutate(coloring = ifelse(PFAM %in% "PF00583_Acetyltransf_1", "#E41A1C", "gray60")) %>%
-  dplyr::mutate("Percentage of BGCs containing PFAM" = round((Count/2346) * 100, 2))
+  dplyr::mutate("% BGCs containing PFAM" = round((Count/2346) * 100, 2))
 
 bpldf$PFAM <- factor(bpldf$PFAM, levels = as.character(bpldf$PFAM))
 
 pdf("output/Supplementary_fig_S1.pdf", width = 20, height = 8)
-bpl_s1 <- ggplot(data = bpldf, aes(x = PFAM, y = `Percentage of BGCs containing PFAM`)) + 
+bpl_s1 <- ggplot(data = bpldf, aes(x = PFAM, y = `% BGCs containing PFAM`)) + 
   geom_bar(stat = "identity", fill = bpldf$coloring) + 
   theme_pubr() +
-  theme(axis.text.x = element_text(angle = 60, hjust = 1)) +
+  theme(axis.text.x = element_text(angle = 40, hjust = 1)) +
   #scale_x_discrete(expand = expansion(mult = c(0, 0))) + 
   scale_y_continuous(expand = expansion(mult = c(0, 0)))
 bpl_s1
@@ -127,10 +127,10 @@ bpl_maturases$Family<- factor(bpl_maturases$`Protein family`,
                                         "Short-chain dehydrogenase (PF00106)",
                                         "Amine oxidoreductase (PF01593)"))
 
-bpl <- ggplot(data = bpl_maturases, aes(x = Family, y = `Percentage of BGCs containing PFAM`)) + 
+bpl <- ggplot(data = bpl_maturases, aes(x = Family, y = `% BGCs containing PFAM`)) + 
   geom_bar(stat = "identity", fill = bpl_maturases$coloring) + 
   theme_pubr() +
-  theme(axis.text.x = element_text(angle = 60, hjust = 1)) +
+  theme(axis.text.x = element_text(angle = 0, hjust = 1)) +
   scale_y_continuous(expand = expansion(mult = c(0, 0)))
 bpl
 
@@ -223,7 +223,7 @@ prod <- ggplot() +
     legend.position = "none") +
   scale_color_manual(values = pal2) +
   geom_text_repel(data = subset(plotdf, known_product != "unknown"),
-    size = 3,
+    size = 5,
     aes(x = PC1,
         y = PC2,
         label = known_product)) +
@@ -257,7 +257,7 @@ acetyl <- ggplot() +
                       option = "magma",
                       end = 0.9,
                       na.value = "gray80") +
-  theme(axis.title.x = element_blank())
+  #theme(axis.title.x = element_blank())
 acetyl
 
 # C39 Peptidases
@@ -320,7 +320,7 @@ nif11 <- ggplot() +
                y = PC2,
                color = precursor_type)) +
   theme_pubr() +
-  theme(axis.title.x = element_blank()) +
+  #theme(axis.title.x = element_blank()) +
   scale_color_manual(values = magma(8)[c(5, 7)],
                      name = "RiPP precursor type")
 nif11
@@ -335,7 +335,7 @@ duf4135 <- ggplot() +
                y = PC2,
                color = PF13575_DUF4135)) +
   theme_classic() +
-  theme(axis.title.x = element_blank()) +
+  #theme(axis.title.x = element_blank()) +
   scale_color_viridis(name ="DUF4135 \n  (PF13575) \n per BGC",
                       direction = -1,
                       option = "magma",
@@ -365,7 +365,7 @@ donut <- ggdonutchart(data = cr_ord,
                       x = "Freq",
                       label = "lab",
                       fill = "Phylum",
-                      lab.font = c(8, "plain", "black"),
+                      lab.font = c(6, "plain", "black"),
                       color = "white",
                       palette = colorblind)
 donut
@@ -381,18 +381,22 @@ phygraph <- ggplot(data = plotdf) +
                      name = "Phylum") +
   theme_pubr()  +
   theme(legend.position = "none",
-        legend.text=element_text(size=12),
+        axis.title = element_text(size = 14),
+        legend.text=element_text(size=14),
         legend.title = element_text(size = 14),
   ) +
-  guides(colour = guide_legend(override.aes = list(size=2)))
+  guides(colour = guide_legend(override.aes = list(size=4),
+                               ncol = 1))
+  #guides(colour = guide_legend(override.aes = list(size=2),))
 phygraph
 
 
 phygraph <- phygraph +
   ggtitle('A') +
   theme(axis.text = element_text(size = 12),
-        axis.title = element_blank(),
-        plot.title = element_blank(),
+        #axis.title = element_blank(),
+        #plot.title = element_blank(),
+        legend.text = element_text(size = 14),
         legend.position = "right")
 donut <- donut +
   ggtitle('Z') +
@@ -411,6 +415,12 @@ sam <- sam +
         axis.title = element_text(size = 14),
         plot.title = element_text(size = 20),
         legend.position = "right")
+c39 <- c39 + 
+  ggtitle('C') +
+  theme(axis.text = element_text(size = 12),
+        axis.title = element_text(size = 14),
+        plot.title = element_text(size = 20),
+        legend.position = "right")
 abc <- abc +
   ggtitle('D') +
   theme(axis.text = element_text(size = 12),
@@ -422,18 +432,20 @@ nif11 <- nif11 +
   theme(axis.text = element_text(size = 12),
         axis.title = element_text(size = 14),
         plot.title = element_text(size =  20),
-        legend.position = "top")
+        legend.position = "right")
 acetyl <- acetyl +
   ggtitle('F') +
-  theme(axis.text = element_text(size = 12),
-        axis.title = element_text(size = 14),
+  theme(axis.text = element_text(size = 16),
+        axis.title = element_text(size = 18),
         plot.title = element_text(size = 20),
         legend.position = "right")
 bpl <- bpl +
   ggtitle('G') +
-  theme(axis.text = element_text(size = 12),
-        axis.title = element_text(size = 14),
-        plot.title = element_text(size = 20))
+  theme(axis.text = element_text(size = 16),
+        axis.title = element_text(size = 20),
+        axis.title.y = element_blank()) +
+  coord_flip()
+bpl
 #ZZZZZZ
 # layout <- '
 # AAAAAAAABBB
@@ -443,23 +455,24 @@ bpl <- bpl +
 #EEGGHH
 
 layout <- '
-AABBBCC
-DEHHHHH
-DEHHHHH
-FGHHHHH
-FGHHHHH'
-pdf("output/Figure1.pdf", width = 16, height = 10)
+AAAAAABBCCCCCC
+DDDDEEEHHHHHHH
+DDDDEEEHHHHHHH
+FFFFGGGHHHHHHH
+FFFFGGGHHHHHHH'
+
+pdf("output/Figure1.pdf", width = 20, height = 14)
 wrap_plots(
   A = prod,
   B = phygraph,
   C = donut,
-  D = sam,
+  D = c39,
   #D = abc,
   E = nif11,
   F = abc,
   G = acetyl,
   H = bpl, 
-  heights = c(3,3,1,1),
+  heights = c(8,1.5,1.5,1.5,1.5),
  # widths = c(3,1,1),
   # widths = c(1, 1, 2, 1),
   # 
