@@ -1,0 +1,18 @@
+query,genus_species,nucleotide_acc,protein_acc,start,end,dir,pfam_id1,name1,description1,e_value1,pfam_id2,name2,description2,e_value2,pfam_id3,name3,description3,e_value3
+AFS60639.1,Entotheonella factor polytheonamide,JX456532.1,AFS60631.1,4026,4446,+,PF13683,rve_3,Integrase core domain,1.2e-10,NA,NA,NA,NA,NA,NA,NA,NA
+AFS60639.1,Entotheonella factor polytheonamide,JX456532.1,AFS60632.1,4954,4516,-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AFS60639.1,Entotheonella factor polytheonamide,JX456532.1,AFS60633.1,5176,4963,-,PF07927,HicA_toxin,"HicA toxin of bacterial toxin-antitoxin,",2.2e-8,NA,NA,NA,NA,NA,NA,NA,NA
+AFS60639.1,Entotheonella factor polytheonamide,JX456532.1,AFS60634.1,5499,5850,+,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AFS60639.1,Entotheonella factor polytheonamide,JX456532.1,AFS60635.1,7699,5962,-,PF12146,Hydrolase_4,"Serine aminopeptidase, S33",1.3e-18,PF00561,Abhydrolase_1,alpha/beta hydrolase fold,1.3e-7,PF12697,Abhydrolase_6,Alpha/beta hydrolase family,1.9e-7
+AFS60639.1,Entotheonella factor polytheonamide,JX456532.1,AFS60636.1,7887,8571,+,PF13610,DDE_Tnp_IS240,DDE domain,3e-50,PF00665,rve,Integrase core domain,3.9e-9,PF03050,DDE_Tnp_IS66,Transposase IS66 family,2.7e-8
+AFS60639.1,Entotheonella factor polytheonamide,JX456532.1,AFS60637.1,8814,10806,+,PF04055,Radical_SAM,Radical SAM superfamily,5.1e-13,PF02310,B12-binding,B12 binding domain,1.6e-8,NA,NA,NA,NA
+AFS60639.1,Entotheonella factor polytheonamide,JX456532.1,AFS60638.1,10847,12860,+,PF04055,Radical_SAM,Radical SAM superfamily,5.4e-12,PF02310,B12-binding,B12 binding domain,9.4e-6,NA,NA,NA,NA
+AFS60639.1,Entotheonella factor polytheonamide,JX456532.1,AFS60639.1,12891,13329,+,PF02979,NHase_alpha,"Nitrile hydratase, alpha chain",4.4e-7,NA,NA,NA,NA,NA,NA,NA,NA
+AFS60639.1,Entotheonella factor polytheonamide,JX456532.1,AFS60640.1,13407,15015,+,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AFS60639.1,Entotheonella factor polytheonamide,JX456532.1,AFS60641.1,15014,16217,+,PF05175,MTS,Methyltransferase small domain,2.8e-14,PF13649,Methyltransf_25,Methyltransferase domain,1.4e-7,PF13847,Methyltransf_31,Methyltransferase domain,3.8e-7
+AFS60639.1,Entotheonella factor polytheonamide,JX456532.1,AFS60642.1,16191,17952,+,PF13575,DUF4135,Domain of unknown function (DUF4135),5.7e-88,NA,NA,NA,NA,NA,NA,NA,NA
+AFS60639.1,Entotheonella factor polytheonamide,JX456532.1,AFS60643.1,17955,18288,+,PF09394,Inhibitor_I42,Chagasin family peptidase inhibitor I42,2.6e-11,NA,NA,NA,NA,NA,NA,NA,NA
+AFS60639.1,Entotheonella factor polytheonamide,JX456532.1,AFS60644.1,18353,19325,+,PF00112,Peptidase_C1,Papain family cysteine protease,9.2e-44,NA,NA,NA,NA,NA,NA,NA,NA
+AFS60639.1,Entotheonella factor polytheonamide,JX456532.1,AFS60645.1,19376,20549,+,PF13621,Cupin_8,Cupin-like domain,3.1e-51,PF08007,Cupin_4,Cupin superfamily protein,3.9e-6,NA,NA,NA,NA
+AFS60639.1,Entotheonella factor polytheonamide,JX456532.1,AFS60646.1,21329,20645,-,PF13610,DDE_Tnp_IS240,DDE domain,3e-50,PF00665,rve,Integrase core domain,3.9e-9,PF03050,DDE_Tnp_IS66,Transposase IS66 family,2.7e-8
+AFS60639.1,Entotheonella factor polytheonamide,JX456532.1,AFS60647.1,21382,21574,+,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

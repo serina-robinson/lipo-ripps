@@ -1,0 +1,137 @@
+Query,Genus/Species,Nucleotide_acc,Protein_acc,start,end,dir,PfamID1,Name1,Description1,E-value1,PfamID2,Name2,Description2,E-value2,PfamID3,Name3,Description3,E-value3
+AFS60639.1,bacterium symbiont of Theonella swinhoei pTSMAC1 Bacteria.,JX456532.1,AFS60631.1,4026,4446,+,PF13683,rve_3,Integrase core domain,1.2e-10
+AFS60639.1,bacterium symbiont of Theonella swinhoei pTSMAC1 Bacteria.,JX456532.1,AFS60632.1,4954,4516,-
+AFS60639.1,bacterium symbiont of Theonella swinhoei pTSMAC1 Bacteria.,JX456532.1,AFS60633.1,5176,4963,-,PF07927,HicA_toxin,"HicA toxin of bacterial toxin-antitoxin,",2.2e-08
+AFS60639.1,bacterium symbiont of Theonella swinhoei pTSMAC1 Bacteria.,JX456532.1,AFS60634.1,5499,5850,+
+AFS60639.1,bacterium symbiont of Theonella swinhoei pTSMAC1 Bacteria.,JX456532.1,AFS60635.1,7699,5962,-,PF12146,Hydrolase_4,"Serine aminopeptidase, S33",1.3e-18,PF00561,Abhydrolase_1,alpha/beta hydrolase fold,1.3e-07,PF12697,Abhydrolase_6,Alpha/beta hydrolase family,1.9e-07,PF00326,Peptidase_S9,Prolyl oligopeptidase family,4.9e-07,PF02129,Peptidase_S15,X-Pro dipeptidyl-peptidase (S15 family),7.6e-06
+AFS60639.1,bacterium symbiont of Theonella swinhoei pTSMAC1 Bacteria.,JX456532.1,AFS60636.1,7887,8571,+,PF13610,DDE_Tnp_IS240,DDE domain,3e-50,PF00665,rve,Integrase core domain,3.9e-09,PF03050,DDE_Tnp_IS66,Transposase IS66 family,2.7e-08
+AFS60639.1,bacterium symbiont of Theonella swinhoei pTSMAC1 Bacteria.,JX456532.1,AFS60637.1,8814,10806,+,PF04055,Radical_SAM,Radical SAM superfamily,5.1e-13,PF02310,B12-binding,B12 binding domain,1.6e-08
+AFS60639.1,bacterium symbiont of Theonella swinhoei pTSMAC1 Bacteria.,JX456532.1,AFS60638.1,10847,12860,+,PF04055,Radical_SAM,Radical SAM superfamily,5.4e-12,PF02310,B12-binding,B12 binding domain,9.4e-06
+AFS60639.1,bacterium symbiont of Theonella swinhoei pTSMAC1 Bacteria.,JX456532.1,AFS60639.1,12891,13329,+,PF02979,NHase_alpha,"Nitrile hydratase, alpha chain",4.4e-07
+AFS60639.1,bacterium symbiont of Theonella swinhoei pTSMAC1 Bacteria.,JX456532.1,AFS60640.1,13407,15015,+
+AFS60639.1,bacterium symbiont of Theonella swinhoei pTSMAC1 Bacteria.,JX456532.1,AFS60641.1,15014,16217,+,PF05175,MTS,Methyltransferase small domain,2.8e-14,PF13649,Methyltransf_25,Methyltransferase domain,1.4e-07,PF13847,Methyltransf_31,Methyltransferase domain,3.8e-07,PF06325,PrmA,Ribosomal protein L11 methyltransferase (PrmA),3.9e-07,PF03602,Cons_hypoth95,Conserved hypothetical protein 95,4.5e-05
+AFS60639.1,bacterium symbiont of Theonella swinhoei pTSMAC1 Bacteria.,JX456532.1,AFS60642.1,16191,17952,+,PF13575,DUF4135,Domain of unknown function (DUF4135),5.7e-88
+AFS60639.1,bacterium symbiont of Theonella swinhoei pTSMAC1 Bacteria.,JX456532.1,AFS60643.1,17955,18288,+,PF09394,Inhibitor_I42,Chagasin family peptidase inhibitor I42,2.6e-11
+AFS60639.1,bacterium symbiont of Theonella swinhoei pTSMAC1 Bacteria.,JX456532.1,AFS60644.1,18353,19325,+,PF00112,Peptidase_C1,Papain family cysteine protease,9.2e-44
+AFS60639.1,bacterium symbiont of Theonella swinhoei pTSMAC1 Bacteria.,JX456532.1,AFS60645.1,19376,20549,+,PF13621,Cupin_8,Cupin-like domain,3.1e-51,PF08007,Cupin_4,Cupin superfamily protein,3.9e-06
+AFS60639.1,bacterium symbiont of Theonella swinhoei pTSMAC1 Bacteria.,JX456532.1,AFS60646.1,21329,20645,-,PF13610,DDE_Tnp_IS240,DDE domain,3e-50,PF00665,rve,Integrase core domain,3.9e-09,PF03050,DDE_Tnp_IS66,Transposase IS66 family,2.7e-08
+AFS60639.1,bacterium symbiont of Theonella swinhoei pTSMAC1 Bacteria.,JX456532.1,AFS60647.1,21382,21574,+
+WP_051528945.1,Microvirgula sp. AG722,NZ_QLTJ01000006.1,WP_084300165.1,90642,89943,-,PF17939,TetR_C_30,"Tetracyclin repressor-like, C-terminal domain",2.2e-22,PF00440,TetR_N,"Bacterial regulatory proteins, tetR family",3e-15
+WP_051528945.1,Microvirgula sp. AG722,NZ_QLTJ01000006.1,WP_028499756.1,91211,90785,-,PF00903,Glyoxalase,Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily,2.7e-06,PF13669,Glyoxalase_4,Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily,0.00064
+WP_051528945.1,Microvirgula sp. AG722,NZ_QLTJ01000006.1,WP_028499757.1,94042,91216,-,PF17760,UvrA_inter,UvrA interaction domain,2.2e-38,PF17755,UvrA_DNA-bind,UvrA DNA-binding domain,6.1e-36,PF00005,ABC_tran,ABC transporter,6.3e-21,PF02463,SMC_N,RecF/RecN/SMC N terminal domain,4.3e-11,PF13555,AAA_29,P-loop containing region of AAA domain,3.5e-08
+WP_051528945.1,Microvirgula sp. AG722,NZ_QLTJ01000006.1,WP_028499758.1,94192,95554,+,PF07690,MFS_1,Major Facilitator Superfamily,4.3e-49,PF00083,Sugar_tr,Sugar (and other) transporter,5.5e-15,PF12832,MFS_1_like,MFS_1 like family,4.8e-06
+WP_051528945.1,Microvirgula sp. AG722,NZ_QLTJ01000006.1,WP_107890180.1,95554,96100,+,PF00436,SSB,Single-strand binding protein family,1e-41
+WP_051528945.1,Microvirgula sp. AG722,NZ_QLTJ01000006.1,WP_199489800.1,96689,96179,-,PF12802,MarR_2,MarR family,6.1e-14,PF01047,MarR,MarR family,9.7e-05,PF13551,HTH_29,Winged helix-turn helix,0.00071
+WP_051528945.1,Microvirgula sp. AG722,NZ_QLTJ01000006.1,WP_107890181.1,96817,97273,+
+WP_051528945.1,Microvirgula sp. AG722,NZ_QLTJ01000006.1,WP_158537433.1,97635,99720,+,PF04055,Radical_SAM,Radical SAM superfamily,4.4e-09,PF02310,B12-binding,B12 binding domain,5.7e-05
+WP_051528945.1,Microvirgula sp. AG722,NZ_QLTJ01000006.1,WP_051528945.1,99752,100193,+,PF02979,NHase_alpha,"Nitrile hydratase, alpha chain",1.5e-09
+WP_051528945.1,Microvirgula sp. AG722,NZ_QLTJ01000006.1,WP_112692456.1,100290,101826,+
+WP_051528945.1,Microvirgula sp. AG722,NZ_QLTJ01000006.1,WP_028499762.1,101822,102977,+,PF05175,MTS,Methyltransferase small domain,1.7e-06
+WP_051528945.1,Microvirgula sp. AG722,NZ_QLTJ01000006.1,WP_112692457.1,102979,104809,+,PF13575,DUF4135,Domain of unknown function (DUF4135),5.9e-104
+WP_051528945.1,Microvirgula sp. AG722,NZ_QLTJ01000006.1,WP_112692458.1,104821,105889,+,PF13365,Trypsin_2,Trypsin-like peptidase domain,2.5e-05,PF05579,Peptidase_S32,Equine arteritis virus serine endopeptidase S32,0.00018,PF00089,Trypsin,Trypsin,0.00064
+WP_051528945.1,Microvirgula sp. AG722,NZ_QLTJ01000006.1,WP_112692459.1,105901,106165,+
+WP_051528945.1,Microvirgula sp. AG722,NZ_QLTJ01000006.1,WP_112692460.1,107807,106154,-,PF12146,Hydrolase_4,"Serine aminopeptidase, S33",1.7e-13,PF00561,Abhydrolase_1,alpha/beta hydrolase fold,1.4e-08,PF12697,Abhydrolase_6,Alpha/beta hydrolase family,1.6e-07,PF00326,Peptidase_S9,Prolyl oligopeptidase family,0.00038,PF02129,Peptidase_S15,X-Pro dipeptidyl-peptidase (S15 family),0.00087
+WP_051528945.1,Microvirgula sp. AG722,NZ_QLTJ01000006.1,WP_107890190.1,108238,107803,-,PF10882,bPH_5,Bacterial PH domain,3.9e-09
+WP_051528945.1,Microvirgula sp. AG722,NZ_QLTJ01000006.1,WP_112692461.1,108842,108398,-,PF07719,TPR_2,Tetratricopeptide repeat,2.3e-09,PF13424,TPR_12,Tetratricopeptide repeat,5.2e-08,PF00515,TPR_1,Tetratricopeptide repeat,6.9e-08,PF13428,TPR_14,Tetratricopeptide repeat,2.7e-06,PF14559,TPR_19,Tetratricopeptide repeat,3.3e-06
+KJS38424.1,Rhodospirillaceae bacterium BRH_c57,LAEA01000142.1,KJS38416.1,9642,9303,-,PF00543,P-II,Nitrogen regulatory protein P-II,9.7e-41
+KJS38424.1,Rhodospirillaceae bacterium BRH_c57,LAEA01000142.1,KJS38417.1,10383,9909,-,PF11292,DUF3093,Protein of unknown function (DUF3093),9.5e-06
+KJS38424.1,Rhodospirillaceae bacterium BRH_c57,LAEA01000142.1,KJS38418.1,10720,10426,-
+KJS38424.1,Rhodospirillaceae bacterium BRH_c57,LAEA01000142.1,KJS38419.1,11753,10712,-,PF13365,Trypsin_2,Trypsin-like peptidase domain,3e-05
+KJS38424.1,Rhodospirillaceae bacterium BRH_c57,LAEA01000142.1,KJS38420.1,13228,11758,-,PF13575,DUF4135,Domain of unknown function (DUF4135),5.6e-71
+KJS38424.1,Rhodospirillaceae bacterium BRH_c57,LAEA01000142.1,KJS38421.1,14388,13200,-,PF05175,MTS,Methyltransferase small domain,6e-11,PF13649,Methyltransf_25,Methyltransferase domain,2.6e-07,PF08241,Methyltransf_11,Methyltransferase domain,8.4e-06,PF06325,PrmA,Ribosomal protein L11 methyltransferase (PrmA),9.6e-06,PF13489,Methyltransf_23,Methyltransferase domain,0.00067
+KJS38424.1,Rhodospirillaceae bacterium BRH_c57,LAEA01000142.1,KJS38422.1,15872,14384,-,PF04055,Radical_SAM,Radical SAM superfamily,0.00027
+KJS38424.1,Rhodospirillaceae bacterium BRH_c57,LAEA01000142.1,KJS38423.1,18372,17934,-,PF02979,NHase_alpha,"Nitrile hydratase, alpha chain",2e-09
+KJS38424.1,Rhodospirillaceae bacterium BRH_c57,LAEA01000142.1,KJS38424.1,19333,18946,-,PF02979,NHase_alpha,"Nitrile hydratase, alpha chain",3.8e-09
+KJS38424.1,Rhodospirillaceae bacterium BRH_c57,LAEA01000142.1,KJS38425.1,21729,23673,+,PF00326,Peptidase_S9,Prolyl oligopeptidase family,2e-42,PF12146,Hydrolase_4,"Serine aminopeptidase, S33",8.3e-11,PF02129,Peptidase_S15,X-Pro dipeptidyl-peptidase (S15 family),3.2e-10,PF12697,Abhydrolase_6,Alpha/beta hydrolase family,3.3e-09,PF01738,DLH,Dienelactone hydrolase family,6.9e-06
+KJS38424.1,Rhodospirillaceae bacterium BRH_c57,LAEA01000142.1,KJS38426.1,25874,23840,-,PF04546,Sigma70_ner,"Sigma-70, non-essential region",1.3e-45,PF04539,Sigma70_r3,Sigma-70 region 3,8.4e-30,PF03979,Sigma70_r1_1,"Sigma-70 factor, region 1.1",8.2e-24,PF04542,Sigma70_r2,Sigma-70 region 2,6.2e-22,PF04545,Sigma70_r4,"Sigma-70, region 4",1.3e-19
+KJS38424.1,Rhodospirillaceae bacterium BRH_c57,LAEA01000142.1,KJS38427.1,27896,26003,-,PF08275,Toprim_N,"DNA primase catalytic core, N-terminal domain",2.4e-38,PF01807,zf-CHC2,CHC2 zinc finger,8.3e-34,PF13662,Toprim_4,Toprim domain,1.7e-17,PF13155,Toprim_2,Toprim-like,4.7e-15,PF01751,Toprim,Toprim domain,2.5e-06
+KJS38424.1,Rhodospirillaceae bacterium BRH_c57,LAEA01000142.1,KJS38428.1,28377,27921,-,PF09424,YqeY,Yqey-like protein,9.4e-46
+KJS38424.1,Rhodospirillaceae bacterium BRH_c57,LAEA01000142.1,KJS38429.1,28770,29952,+,PF00988,CPSase_sm_chain,"Carbamoyl-phosphate synthase small chain, CPSase domain",4.1e-48,PF00117,GATase,Glutamine amidotransferase class-I,4.1e-45,PF07722,Peptidase_C26,Peptidase C26,4.8e-11
+KJS38424.1,Rhodospirillaceae bacterium BRH_c57,LAEA01000142.1,KJS38430.1,29966,30245,+
+KJS38424.1,Rhodospirillaceae bacterium BRH_c57,LAEA01000142.1,KJS38447.1,30368,30704,+,PF13366,PDDEXK_3,PD-(D/E)XK nuclease superfamily,1.7e-39
+KJS38424.1,Rhodospirillaceae bacterium BRH_c57,LAEA01000142.1,KJS38431.1,30836,34121,+,PF02786,CPSase_L_D2,"Carbamoyl-phosphate synthase L chain, ATP binding domain",3.6e-101,PF02787,CPSase_L_D3,"Carbamoyl-phosphate synthetase large chain, oligomerisation domain",2.9e-20,PF02142,MGS,MGS-like domain,7.1e-17,PF02222,ATP-grasp,ATP-grasp domain,8.5e-15,PF15632,ATPgrasp_Ter,ATP-grasp in the biosynthetic pathway with Ter operon,5.9e-12
+WP_019503881,Pleurocapsa sp. PCC 7319,NZ_KB235920.1,WP_019503873.1,21335,19100,-,PF03412,Peptidase_C39,Peptidase C39 family,1.2e-34,PF00005,ABC_tran,ABC transporter,1.3e-32,PF00664,ABC_membrane,ABC transporter transmembrane region,4.1e-27,PF02463,SMC_N,RecF/RecN/SMC N terminal domain,9.6e-05,PF12385,Peptidase_C70,Papain-like cysteine protease AvrRpt2,0.00011
+WP_019503881,Pleurocapsa sp. PCC 7319,NZ_KB235920.1,WP_019503874.1,23298,21321,-,PF00072,Response_reg,Response regulator receiver domain,5.7e-31,PF13533,Biotin_lipoyl_2,Biotin-lipoyl like,1e-09,PF13437,HlyD_3,HlyD family secretion protein,1.4e-07,PF16576,HlyD_D23,Barrel-sandwich domain of CusB or HlyD membrane-fusion,1.6e-06,PF02321,OEP,Outer membrane efflux protein,5.5e-06
+WP_019503881,Pleurocapsa sp. PCC 7319,NZ_KB235920.1,WP_019503875.1,24457,23359,-,PF00027,cNMP_binding,Cyclic nucleotide-binding domain,1.2e-24
+WP_019503881,Pleurocapsa sp. PCC 7319,NZ_KB235920.1,WP_019503876.1,25659,24519,-
+WP_019503881,Pleurocapsa sp. PCC 7319,NZ_KB235920.1,WP_026102288.1,26447,25655,-,PF13614,AAA_31,AAA domain,3.6e-19,PF10609,ParA,NUBPL iron-transfer P-loop NTPase,5.2e-17,PF01656,CbiA,CobQ/CobB/MinD/ParA nucleotide binding domain,3.4e-16,PF00142,Fer4_NifH,"4Fe-4S iron sulfur cluster binding proteins, NifH/frxC family",7e-06,PF07015,VirC1,VirC1 protein,1.9e-05
+WP_019503881,Pleurocapsa sp. PCC 7319,NZ_KB235920.1,WP_019503878.1,27902,26483,-,PF02743,dCache_1,Cache domain,2.7e-24,PF00672,HAMP,HAMP domain,8.4e-06,PF17203,sCache_3_2,Single cache domain 3,2.7e-05,PF08269,dCache_2,Cache domain,0.00015,PF05228,CHASE4,CHASE4 domain,0.00026
+WP_019503881,Pleurocapsa sp. PCC 7319,NZ_KB235920.1,WP_019503879.1,28069,27898,-
+WP_019503881,Pleurocapsa sp. PCC 7319,NZ_KB235920.1,WP_019503880.1,29341,28081,-,PF04055,Radical_SAM,Radical SAM superfamily,3.6e-20,PF13353,Fer4_12,4Fe-4S single cluster domain,1.9e-06,PF13186,SPASM,Iron-sulfur cluster-binding domain,7.3e-05,PF13394,Fer4_14,4Fe-4S single cluster domain,0.00069
+WP_019503881,Pleurocapsa sp. PCC 7319,NZ_KB235920.1,WP_019503881.1,29686,29377,-,PF07862,Nif11,Nif11 domain,3.6e-15
+WP_019503881,Pleurocapsa sp. PCC 7319,NZ_KB235920.1,WP_019503882.1,30094,29797,-,PF07862,Nif11,Nif11 domain,1.2e-13
+WP_019503881,Pleurocapsa sp. PCC 7319,NZ_KB235920.1,WP_019503883.1,31677,30228,-
+WP_019503881,Pleurocapsa sp. PCC 7319,NZ_KB235920.1,WP_019503884.1,32115,31779,-,PF02979,NHase_alpha,"Nitrile hydratase, alpha chain",6e-14
+WP_019503881,Pleurocapsa sp. PCC 7319,NZ_KB235920.1,WP_019503885.1,32356,33295,+
+WP_019503881,Pleurocapsa sp. PCC 7319,NZ_KB235920.1,WP_019503886.1,34159,33379,-,PF00072,Response_reg,Response regulator receiver domain,1.3e-18,PF12833,HTH_18,Helix-turn-helix domain,3.3e-18,PF00165,HTH_AraC,"Bacterial regulatory helix-turn-helix proteins, AraC family",8.6e-17
+WP_019503881,Pleurocapsa sp. PCC 7319,NZ_KB235920.1,WP_019503888.1,35859,34593,-,PF18885,DUF5648,Repeat of unknown function (DUF5648),1.9e-31,PF00353,HemolysinCabind,RTX calcium-binding nonapeptide repeat (4 copies),1.4e-18
+WP_019503881,Pleurocapsa sp. PCC 7319,NZ_KB235920.1,WP_019503891.1,36784,38134,+,PF14516,AAA_35,AAA-like domain,1.7e-102
+WP_019503881,Pleurocapsa sp. PCC 7319,NZ_KB235920.1,WP_019503892.1,38846,38159,-,PF03400,DDE_Tnp_IS1,IS1 transposase,9.4e-19,PF03811,Zn_Tnp_IS1,InsA N-terminal domain,0.00015
+WP_019503882,Pleurocapsa sp. PCC 7319,NZ_KB235920.1,WP_019503874.1,23298,21321,-,PF00072,Response_reg,Response regulator receiver domain,5.7e-31,PF13533,Biotin_lipoyl_2,Biotin-lipoyl like,1e-09,PF13437,HlyD_3,HlyD family secretion protein,1.4e-07,PF16576,HlyD_D23,Barrel-sandwich domain of CusB or HlyD membrane-fusion,1.6e-06,PF02321,OEP,Outer membrane efflux protein,5.5e-06
+WP_019503882,Pleurocapsa sp. PCC 7319,NZ_KB235920.1,WP_019503875.1,24457,23359,-,PF00027,cNMP_binding,Cyclic nucleotide-binding domain,1.2e-24
+WP_019503882,Pleurocapsa sp. PCC 7319,NZ_KB235920.1,WP_019503876.1,25659,24519,-
+WP_019503882,Pleurocapsa sp. PCC 7319,NZ_KB235920.1,WP_026102288.1,26447,25655,-,PF13614,AAA_31,AAA domain,3.6e-19,PF10609,ParA,NUBPL iron-transfer P-loop NTPase,5.2e-17,PF01656,CbiA,CobQ/CobB/MinD/ParA nucleotide binding domain,3.4e-16,PF00142,Fer4_NifH,"4Fe-4S iron sulfur cluster binding proteins, NifH/frxC family",7e-06,PF07015,VirC1,VirC1 protein,1.9e-05
+WP_019503882,Pleurocapsa sp. PCC 7319,NZ_KB235920.1,WP_019503878.1,27902,26483,-,PF02743,dCache_1,Cache domain,2.7e-24,PF00672,HAMP,HAMP domain,8.4e-06,PF17203,sCache_3_2,Single cache domain 3,2.7e-05,PF08269,dCache_2,Cache domain,0.00015,PF05228,CHASE4,CHASE4 domain,0.00026
+WP_019503882,Pleurocapsa sp. PCC 7319,NZ_KB235920.1,WP_019503879.1,28069,27898,-
+WP_019503882,Pleurocapsa sp. PCC 7319,NZ_KB235920.1,WP_019503880.1,29341,28081,-,PF04055,Radical_SAM,Radical SAM superfamily,3.6e-20,PF13353,Fer4_12,4Fe-4S single cluster domain,1.9e-06,PF13186,SPASM,Iron-sulfur cluster-binding domain,7.3e-05,PF13394,Fer4_14,4Fe-4S single cluster domain,0.00069
+WP_019503882,Pleurocapsa sp. PCC 7319,NZ_KB235920.1,WP_019503881.1,29686,29377,-,PF07862,Nif11,Nif11 domain,3.6e-15
+WP_019503882,Pleurocapsa sp. PCC 7319,NZ_KB235920.1,WP_019503882.1,30094,29797,-,PF07862,Nif11,Nif11 domain,1.2e-13
+WP_019503882,Pleurocapsa sp. PCC 7319,NZ_KB235920.1,WP_019503883.1,31677,30228,-
+WP_019503882,Pleurocapsa sp. PCC 7319,NZ_KB235920.1,WP_019503884.1,32115,31779,-,PF02979,NHase_alpha,"Nitrile hydratase, alpha chain",6e-14
+WP_019503882,Pleurocapsa sp. PCC 7319,NZ_KB235920.1,WP_019503885.1,32356,33295,+
+WP_019503882,Pleurocapsa sp. PCC 7319,NZ_KB235920.1,WP_019503886.1,34159,33379,-,PF00072,Response_reg,Response regulator receiver domain,1.3e-18,PF12833,HTH_18,Helix-turn-helix domain,3.3e-18,PF00165,HTH_AraC,"Bacterial regulatory helix-turn-helix proteins, AraC family",8.6e-17
+WP_019503882,Pleurocapsa sp. PCC 7319,NZ_KB235920.1,WP_019503888.1,35859,34593,-,PF18885,DUF5648,Repeat of unknown function (DUF5648),1.9e-31,PF00353,HemolysinCabind,RTX calcium-binding nonapeptide repeat (4 copies),1.4e-18
+WP_019503882,Pleurocapsa sp. PCC 7319,NZ_KB235920.1,WP_019503891.1,36784,38134,+,PF14516,AAA_35,AAA-like domain,1.7e-102
+WP_019503882,Pleurocapsa sp. PCC 7319,NZ_KB235920.1,WP_019503892.1,38846,38159,-,PF03400,DDE_Tnp_IS1,IS1 transposase,9.4e-19,PF03811,Zn_Tnp_IS1,InsA N-terminal domain,0.00015
+WP_019503882,Pleurocapsa sp. PCC 7319,NZ_KB235920.1,WP_019503489.1,38910,39499,+
+WP_007357382.1,Kamptonema formosum PCC 6407,NZ_KB235904.1,WP_007357390.1,466321,466105,-
+WP_007357382.1,Kamptonema formosum PCC 6407,NZ_KB235904.1,WP_007357389.1,467226,466665,-,PF00625,Guanylate_kin,Guanylate kinase,8e-52,PF13671,AAA_33,AAA domain,5.2e-06,PF13191,AAA_16,AAA ATPase domain,3.1e-05,PF03193,RsgA_GTPase,RsgA GTPase,0.00013,PF13401,AAA_22,AAA domain,0.00032
+WP_007357382.1,Kamptonema formosum PCC 6407,NZ_KB235904.1,WP_007357388.1,467496,467229,-,PF04025,DUF370,Domain of unknown function (DUF370),1.3e-37
+WP_007357382.1,Kamptonema formosum PCC 6407,NZ_KB235904.1,WP_026103779.1,467799,469575,+,PF05833,FbpA,Fibronectin-binding protein A N-terminus (FbpA),7.8e-136,PF05670,NFACT-R_1,NFACT protein RNA binding domain,3.8e-11,PF18297,NFACT-R_2,NFACT protein RNA binding domain,2.8e-08
+WP_007357382.1,Kamptonema formosum PCC 6407,NZ_KB235904.1,WP_007357386.1,471098,469949,-
+WP_007357382.1,Kamptonema formosum PCC 6407,NZ_KB235904.1,WP_007357385.1,471386,471221,-
+WP_007357382.1,Kamptonema formosum PCC 6407,NZ_KB235904.1,WP_007357384.1,471725,474422,+,PF00005,ABC_tran,ABC transporter,2.1e-31,PF00664,ABC_membrane,ABC transporter transmembrane region,1e-20,PF02463,SMC_N,RecF/RecN/SMC N terminal domain,2.1e-07,PF13401,AAA_22,AAA domain,8.5e-05,PF13191,AAA_16,AAA ATPase domain,0.00031
+WP_007357382.1,Kamptonema formosum PCC 6407,NZ_KB235904.1,WP_007357383.1,478197,474486,-,PF00400,WD40,"WD domain, G-beta repeat",5.8e-142,PF12894,ANAPC4_WD40,Anaphase-promoting complex subunit 4 WD40 domain,3.8e-68,PF16529,Ge1_WD40,"WD40 region of Ge1, enhancer of mRNA-decapping protein",3.3e-39,PF07676,PD40,WD40-like Beta Propeller Repeat,1.3e-17,PF11715,Nup160,Nucleoporin Nup120/160,1.2e-14
+WP_007357382.1,Kamptonema formosum PCC 6407,NZ_KB235904.1,WP_007357382.1,478443,478740,+,PF02979,NHase_alpha,"Nitrile hydratase, alpha chain",1.3e-09,PF14407,Frankia_peptide,Ribosomally synthesized peptide prototyped by Frankia Franean1_4349.,0.00096
+WP_007357382.1,Kamptonema formosum PCC 6407,NZ_KB235904.1,WP_007357381.1,478870,482143,+,PF13575,DUF4135,Domain of unknown function (DUF4135),3.3e-122,PF05147,LANC_like,Lanthionine synthetase C-like protein,5.1e-66
+WP_007357382.1,Kamptonema formosum PCC 6407,NZ_KB235904.1,WP_007357380.1,482200,483649,+
+WP_007357382.1,Kamptonema formosum PCC 6407,NZ_KB235904.1,WP_007357379.1,483774,484701,+,PF12640,UPF0489,UPF0489 domain,4.9e-22
+WP_007357382.1,Kamptonema formosum PCC 6407,NZ_KB235904.1,WP_202796248.1,487111,484882,-,PF03412,Peptidase_C39,Peptidase C39 family,7.8e-37,PF00005,ABC_tran,ABC transporter,1.5e-31,PF00664,ABC_membrane,ABC transporter transmembrane region,4e-30,PF12385,Peptidase_C70,Papain-like cysteine protease AvrRpt2,6.5e-06,PF02463,SMC_N,RecF/RecN/SMC N terminal domain,8.6e-05
+WP_007357382.1,Kamptonema formosum PCC 6407,NZ_KB235904.1,WP_007357377.1,488940,487119,-,PF13437,HlyD_3,HlyD family secretion protein,3e-12,PF13533,Biotin_lipoyl_2,Biotin-lipoyl like,4.6e-06,PF00364,Biotin_lipoyl,Biotin-requiring enzyme,8.7e-06,PF00529,HlyD,HlyD membrane-fusion protein of T1SS,9.3e-06,PF16576,HlyD_D23,Barrel-sandwich domain of CusB or HlyD membrane-fusion,7.5e-05
+WP_007357382.1,Kamptonema formosum PCC 6407,NZ_KB235904.1,WP_007357376.1,490004,488963,-,PF00027,cNMP_binding,Cyclic nucleotide-binding domain,6e-33
+WP_007357382.1,Kamptonema formosum PCC 6407,NZ_KB235904.1,WP_007357375.1,490303,491002,+,PF02798,GST_N,"Glutathione S-transferase, N-terminal domain",6e-13,PF13409,GST_N_2,"Glutathione S-transferase, N-terminal domain",1.7e-09,PF00043,GST_C,"Glutathione S-transferase, C-terminal domain",9.9e-09,PF13417,GST_N_3,"Glutathione S-transferase, N-terminal domain",1.1e-08,PF13410,GST_C_2,"Glutathione S-transferase, C-terminal domain",9.1e-07
+WP_007357382.1,Kamptonema formosum PCC 6407,NZ_KB235904.1,WP_155523408.1,491002,491140,+
+WP_036784545.1,Pseudophaeobacter arcticus DSM 23566,NZ_KI421507.1,WP_161631297.1,618631,620161,+,PF12697,Abhydrolase_6,Alpha/beta hydrolase family,3.9e-07,PF12146,Hydrolase_4,"Serine aminopeptidase, S33",1.3e-06,PF00561,Abhydrolase_1,alpha/beta hydrolase fold,7.8e-06
+WP_036784545.1,Pseudophaeobacter arcticus DSM 23566,NZ_KI421507.1,WP_027239419.1,620935,620275,-,PF03099,BPL_LplA_LipB,Biotin/lipoate A/B protein ligase family,1.6e-06
+WP_036784545.1,Pseudophaeobacter arcticus DSM 23566,NZ_KI421507.1,WP_027239420.1,621061,622849,+,PF00656,Peptidase_C14,Caspase domain,1.3e-27,PF01471,PG_binding_1,Putative peptidoglycan binding domain,4.8e-06
+WP_036784545.1,Pseudophaeobacter arcticus DSM 23566,NZ_KI421507.1,WP_076611905.1,623377,623581,+
+WP_036784545.1,Pseudophaeobacter arcticus DSM 23566,NZ_KI421507.1,WP_161631298.1,623741,625994,+,PF00072,Response_reg,Response regulator receiver domain,2.4e-18,PF02518,HATPase_c,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase",1.2e-17,PF00512,HisKA,His Kinase A (phospho-acceptor) domain,2.8e-09
+WP_036784545.1,Pseudophaeobacter arcticus DSM 23566,NZ_KI421507.1,WP_161631299.1,626511,627783,+,PF13533,Biotin_lipoyl_2,Biotin-lipoyl like,8.4e-08,PF00364,Biotin_lipoyl,Biotin-requiring enzyme,2.6e-07,PF13437,HlyD_3,HlyD family secretion protein,1e-06,PF16576,HlyD_D23,Barrel-sandwich domain of CusB or HlyD membrane-fusion,7.8e-05
+WP_036784545.1,Pseudophaeobacter arcticus DSM 23566,NZ_KI421507.1,WP_027239422.1,627786,629931,+,PF03412,Peptidase_C39,Peptidase C39 family,7.8e-34,PF00005,ABC_tran,ABC transporter,2.2e-31,PF00664,ABC_membrane,ABC transporter transmembrane region,8.4e-19
+WP_036784545.1,Pseudophaeobacter arcticus DSM 23566,NZ_KI421507.1,WP_027239423.1,629927,632726,+,PF00005,ABC_tran,ABC transporter,3.9e-32,PF00664,ABC_membrane,ABC transporter transmembrane region,3.1e-18,PF02463,SMC_N,RecF/RecN/SMC N terminal domain,0.00015
+WP_036784545.1,Pseudophaeobacter arcticus DSM 23566,NZ_KI421507.1,WP_036784545.1,632920,633205,+
+WP_036784545.1,Pseudophaeobacter arcticus DSM 23566,NZ_KI421507.1,WP_161631300.1,633309,634290,+,PF00583,Acetyltransf_1,Acetyltransferase (GNAT) family,1.3e-10,PF13508,Acetyltransf_7,Acetyltransferase (GNAT) domain,2.3e-06,PF13673,Acetyltransf_10,Acetyltransferase (GNAT) domain,4.8e-06,PF13527,Acetyltransf_9,Acetyltransferase (GNAT) domain,0.00036,PF14542,Acetyltransf_CG,GCN5-related N-acetyl-transferase,0.00055
+WP_036784545.1,Pseudophaeobacter arcticus DSM 23566,NZ_KI421507.1,WP_027239425.1,634283,635255,+,PF12640,UPF0489,UPF0489 domain,1.6e-11
+WP_036784545.1,Pseudophaeobacter arcticus DSM 23566,NZ_KI421507.1,WP_161631301.1,635251,636109,+,PF13621,Cupin_8,Cupin-like domain,2.1e-16,PF02373,JmjC,"JmjC domain, hydroxylase",9.8e-08,PF08007,Cupin_4,Cupin superfamily protein,0.00072
+WP_036784545.1,Pseudophaeobacter arcticus DSM 23566,NZ_KI421507.1,WP_027239427.1,636105,639333,+,PF13575,DUF4135,Domain of unknown function (DUF4135),1.7e-78,PF05147,LANC_like,Lanthionine synthetase C-like protein,5.3e-27
+WP_036784545.1,Pseudophaeobacter arcticus DSM 23566,NZ_KI421507.1,WP_027239428.1,640947,639387,-,PF00501,AMP-binding,AMP-binding enzyme,7.7e-96,PF13193,AMP-binding_C,AMP-binding enzyme C-terminal domain,2.8e-15
+WP_036784545.1,Pseudophaeobacter arcticus DSM 23566,NZ_KI421507.1,WP_027239429.1,641205,642981,+,PF01039,Carboxyl_trans,Carboxyl transferase domain,1.4e-75,PF00364,Biotin_lipoyl,Biotin-requiring enzyme,8.4e-13,PF13533,Biotin_lipoyl_2,Biotin-lipoyl like,0.00015
+WP_036784545.1,Pseudophaeobacter arcticus DSM 23566,NZ_KI421507.1,WP_027239430.1,643422,642999,-,PF12802,MarR_2,MarR family,1.8e-13,PF01047,MarR,MarR family,3.9e-11,PF13412,HTH_24,Winged helix-turn-helix DNA-binding,1.2e-09
+WP_036784545.1,Pseudophaeobacter arcticus DSM 23566,NZ_KI421507.1,WP_051360586.1,643534,644668,+,PF13458,Peripla_BP_6,Periplasmic binding protein,7.3e-49,PF13433,Peripla_BP_5,Periplasmic binding protein domain,2.9e-45
+WP_011131484.1,Prochlorococcus marinus str. MIT 9313,NC_005071.1,WP_011131477.1,2228825,2230307,+,PF02696,UPF0061,"Uncharacterized ACR, YdiU/UPF0061 family",9.3e-180
+WP_011131484.1,Prochlorococcus marinus str. MIT 9313,NC_005071.1,WP_157859896.1,2231216,2231501,+
+WP_011131484.1,Prochlorococcus marinus str. MIT 9313,NC_005071.1,WP_041384751.1,2231727,2231547,-
+WP_011131484.1,Prochlorococcus marinus str. MIT 9313,NC_005071.1,WP_041385264.1,2232053,2231774,-
+WP_011131484.1,Prochlorococcus marinus str. MIT 9313,NC_005071.1,WP_011131480.1,2232346,2232664,+
+WP_011131484.1,Prochlorococcus marinus str. MIT 9313,NC_005071.1,WP_011131481.1,2234197,2233810,-
+WP_011131484.1,Prochlorococcus marinus str. MIT 9313,NC_005071.1,WP_157859897.1,2234597,2234363,-
+WP_011131484.1,Prochlorococcus marinus str. MIT 9313,NC_005071.1,WP_011131483.1,2235151,2234896,-,PF07862,Nif11,Nif11 domain,6.4e-16
+WP_011131484.1,Prochlorococcus marinus str. MIT 9313,NC_005071.1,WP_011131484.1,2235487,2235229,-,PF07862,Nif11,Nif11 domain,3.7e-14
+WP_011131484.1,Prochlorococcus marinus str. MIT 9313,NC_005071.1,WP_011131485.1,2235904,2235652,-,PF07862,Nif11,Nif11 domain,2e-17
+WP_011131484.1,Prochlorococcus marinus str. MIT 9313,NC_005071.1,WP_011131486.1,2236278,2236026,-,PF07862,Nif11,Nif11 domain,1.2e-15
+WP_011131484.1,Prochlorococcus marinus str. MIT 9313,NC_005071.1,WP_011131487.1,2236619,2236379,-,PF07862,Nif11,Nif11 domain,6.3e-15
+WP_011131484.1,Prochlorococcus marinus str. MIT 9313,NC_005071.1,WP_011131488.1,2237021,2236769,-,PF07862,Nif11,Nif11 domain,3e-15
+WP_011131484.1,Prochlorococcus marinus str. MIT 9313,NC_005071.1,WP_162009619.1,2238079,2237803,-
+WP_011131484.1,Prochlorococcus marinus str. MIT 9313,NC_005071.1,WP_157859899.1,2238278,2238056,-
+WP_011131484.1,Prochlorococcus marinus str. MIT 9313,NC_005071.1,WP_041384758.1,2238481,2238277,-
+WP_011131484.1,Prochlorococcus marinus str. MIT 9313,NC_005071.1,WP_157859900.1,2238645,2238477,-
