@@ -102,7 +102,7 @@ dat_trim <- dat_match %>%
 dat_pfam_tally <- dat_trim %>%
   select(-query) %>%
   distinct(.keep_all = T) %>%
-  mutate(pfam_long = paste0(name1, "_", pfam_id1)) %>% # need to find a way to do this for name2
+  mutate(pfam_long = paste0(name1, "_", pfam_id1)) %>% 
   group_by(nucleotide_acc) %>%
   dplyr::add_count(pfam_long) %>%
   mutate(genvar = paste0(genus_species, '_', nucleotide_acc))
